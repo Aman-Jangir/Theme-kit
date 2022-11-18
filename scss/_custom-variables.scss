@@ -1,0 +1,61 @@
+// Overwrite Bootstrap's variables here
+// You can find them in node_modules/bootstrap/scss/_variables.scss
+// Copy the variables you need into this file, don't modify files under node_modules/
+$primary: #6c2a55;
+$secondary : #ed9980;
+$success : #dbbee4;
+$danger : #2bdebe;
+$warning :#424251;
+$border-radius: none ;
+$dropdown-bg:#7575b8;;
+$dropdown-link-hover-color: #2bdebe;
+$pagination-hover-bg:   #2bdebe;
+$card-bg: #2bdebe;
+$card-border-color: #e3a0a0;
+$card-cap-bg:#5997b4;
+$card-bg: #141414;
+$breadcrumb-bg:#e3a0a0;
+$breadcrumb-divide : quote("-");
+$carousel-caption-color: #2bdebe;
+$link-color : #2bdebe;
+
+//each $color, $value in $theme-colors{
+//   .alert-#{$color}{
+//       box-shadow: 3px 3px theme-color-level($color, -3);
+//   }
+//
+
+
+//$input-btn-font-size-lg:      $font-small-lg ;
+
+
+// $form-feedback-valid-color:         theme-color("success") !default;
+
+// Some example variables that you can uncomment:
+
+// Enabling shadows and gradients
+//$enable-shadows: true;
+//$enable-gradients: true;
+
+// Changing the body background and text
+$body-bg: #fafdff;
+$body-color: #32cd32;
+
+// Changing the border radius of buttons
+//$border-radius: 15px;
+
+// Changing the theme colors
+//$primary: #202f41;
+//$secondary: #436296;
+//$success: #2bc550;
+//$info: #495dff;
+//$warning: #ef8143;
+//$danger: #ff293a;
+//$light: #dfe6ee;
+//$dark: #0f1319;
+
+
+// Adding (!) an additional theme color (ex. classes btn-cool, bg-cool)
+//$theme-colors: (
+//  "cool": #4d3fa3
+//);
